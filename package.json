@@ -1,0 +1,40 @@
+{
+  "name": "golden-gate",
+  "main": "index.js",
+  "bin": {
+    "golden-gate": "./cli.js"
+  },
+  "version": "0.0.0",
+  "description": "Get a live photo of the Golden Gate Bridge in San Francisco",
+  "license": "MIT",
+  "repository": "bendrucker/golden-gate",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "golden",
+    "gate",
+    "bridge",
+    "san",
+    "francisco",
+    "sf",
+    "photo",
+    "webcam"
+  ],
+  "devDependencies": {
+    "is-jpg": "~1.0.0",
+    "standard": "^7.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "*.js"
+  ],
+  "dependencies": {
+    "simple-get": "~2.2.2"
+  }
+}
