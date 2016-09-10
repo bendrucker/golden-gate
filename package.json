@@ -4,7 +4,7 @@
   "bin": {
     "golden-gate": "./cli.js"
   },
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get a live photo of the Golden Gate Bridge in San Francisco",
   "license": "MIT",
   "repository": "bendrucker/golden-gate",
