@@ -6,7 +6,7 @@ Streams JPG data for a live photo from [goldengatebridge75.org](http://goldengat
 
 ## Install
 
-```
+```sh
 # API
 npm install --save golden-gate
 
