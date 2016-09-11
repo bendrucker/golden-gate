@@ -13,12 +13,17 @@ $ npm install --save golden-gate
 
 ## Usage
 
+
+### API
+
 ```js
 var goldenGate = require('golden-gate')
 
 goldenGate()
   .pipe(fs.createWriteStream('ggb.jpg'))
 ```
+
+### CLI
 
 ```sh
 golden-gate > ggb.jpg
