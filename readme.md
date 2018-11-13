@@ -1,4 +1,4 @@
-# golden-gate [![Build Status](https://travis-ci.org/bendrucker/golden-gate.svg?branch=master)](https://travis-ci.org/bendrucker/golden-gate)
+# golden-gate [![Build Status](https://travis-ci.org/bendrucker/golden-gate.svg?branch=master)](https://travis-ci.org/bendrucker/golden-gate) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/golden-gate.svg)](https://greenkeeper.io/)
 
 > Get a live photo of the Golden Gate Bridge in San Francisco
 
